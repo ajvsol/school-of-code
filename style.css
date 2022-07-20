@@ -1,0 +1,13 @@
+:root {
+    background-color: black;
+}
+
+#main {
+    color: white;
+}
+
+#synopsis {
+    padding: 20px 20px 20px 20px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
