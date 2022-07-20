@@ -4,10 +4,25 @@
 
 #main {
     color: white;
+    font-family: sans-serif;
 }
 
-#synopsis {
+#title {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    font-style: italic;
+    display: block;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto; 
+}
+
+#tribute-info {
     padding: 20px 20px 20px 20px;
-    font-family: sans-serif;
-    font-size: 18px;
 }
