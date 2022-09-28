@@ -7,3 +7,4 @@ A pair of star-cross'd lovers take their life;
 Whose misadventured piteous overthrows
 Do with their death bury their parents' strife.
 The fearful passage of their death-mark'd love,
+And the continuance of their parents' rage,
