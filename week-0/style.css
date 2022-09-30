@@ -1,0 +1,28 @@
+:root {
+    background-color: black;
+}
+
+#main {
+    color: white;
+    font-family: sans-serif;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    font-style: italic;
+    display: block;
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    height: auto; 
+}
+
+#tribute-info {
+    padding: 20px 20px 20px 20px;
+}
