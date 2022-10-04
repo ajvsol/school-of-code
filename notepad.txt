@@ -1,0 +1,4 @@
+function positiveSum(arr) {
+  // loop through the array, checking if the number is positive
+  // sum up all 
+}
